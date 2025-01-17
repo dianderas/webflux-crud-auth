@@ -23,7 +23,7 @@ Las APIs siguen una estructura REST para interactuar con los recursos:
 - **URL**: `/auth/login`
 - **Descripción**: Devuelve token para apis que lo requiera por seguridad.
 
-### Login (POST)
+### Registrar (POST)
 - **URL**: `/auth/register`
 - **Descripción**: Registra usuario con un rol de acceso.
 
